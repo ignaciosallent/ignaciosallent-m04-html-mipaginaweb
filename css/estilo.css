@@ -31,7 +31,7 @@ nav{
 nav ul{
   list-style: none;
   display: inline-block;
-  padding: 18px;
+  padding: 1.5%;
 }
 
 nav ul li{
@@ -113,8 +113,6 @@ footer a:hover{
 .recetas{
   width: 60%;
   display: inline-block;
-  background-color:aqua;
-
 }
 
 .recetas div{
@@ -122,13 +120,25 @@ display: inline-block;
 width: 46%;
 padding: 15px;
 text-align: justify;
-background-color: darkorchid;
 margin: 1%;
+background-color: aqua;
 }
 
 .recetas img{
-  width: 80%;
+  width: 100%;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.recetas p, h3{
+  padding: 1%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.recetas hr{
+  margin-bottom: 1%;
 }
