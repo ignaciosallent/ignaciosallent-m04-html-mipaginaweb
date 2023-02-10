@@ -1,0 +1,134 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+main{
+  overflow: hidden;
+}
+header{
+  background-color: #f9f8fC;
+}
+
+#logo{
+  margin: auto;
+  height: 250px;
+  width: 320px;
+  text-align: center;
+}
+
+#logo h1{
+   font-family: 'Pacifico', cursive;
+   font-size: 58px;
+ }
+
+nav{
+ height: 60px;
+ background-color:#ffffff;
+ text-align: center;
+}
+
+nav ul{
+  list-style: none;
+  display: inline-block;
+  padding: 18px;
+}
+
+nav ul li{
+   float: left;
+   margin-top: -10px;
+}
+
+nav ul li a {
+   color: rgb(0, 0, 0);
+   font-weight: bold;
+   text-decoration: none;
+   font-size: 20px;
+   padding: 18px;
+}
+
+nav ul li a:hover{
+ background-color: white;
+ color: rgb(23, 219, 154);
+ cursor: pointer;
+}
+
+footer{
+  background-color: black;
+  text-align: center;
+  padding: 18px;
+  overflow: hidden;
+}
+footer ul{
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+}
+footer li{
+  padding: 18px;
+  float: left;
+  text-decoration: none;
+}
+footer a{
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+}
+footer a:hover{
+  cursor: pointer;
+}
+
+.sobremi{
+  padding: 10px;
+  float: left;
+  width: 35%;
+  display: block;
+  padding-left: 10%;
+  overflow: hidden;
+  text-align: justify;
+}
+
+.sobremi h3,h4{
+  text-align: center;
+  padding: 3%;
+}
+
+.sobremi img{
+  margin: auto;
+  display: block;
+}
+
+
+#apuntame{ 
+  background-color:rgb(175, 228, 85) ;
+  text-align: center;
+  width: auto;
+}
+
+
+#libro {
+  background-color: rgb(234, 233, 233);
+}
+
+.recetas{
+  width: 60%;
+  display: inline-block;
+  background-color:aqua;
+
+}
+
+.recetas div{
+display: inline-block;
+width: 46%;
+padding: 15px;
+text-align: justify;
+background-color: darkorchid;
+margin: 1%;
+}
+
+.recetas img{
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
