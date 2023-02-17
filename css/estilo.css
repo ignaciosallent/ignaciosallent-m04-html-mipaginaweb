@@ -149,3 +149,34 @@ margin: 1%;
   text-decoration: none;
 }
 
+.misrecetas{
+  text-align: justify;
+  background-color: #EFEFEF;
+  overflow: hidden;
+}
+.misrecetas div{
+  padding: 1%;
+}
+.misrecetas h1{
+  color: #016600;
+  font-weight: bold;
+  padding: 1%;
+}
+.misrecetas h3{
+  text-align: justify;
+  padding: 1%;
+  color: #016600;
+}
+.misrecetas hr{
+  width: 100%;
+  color: black;
+}
+.misrecetas img{
+  width: 32px;
+  display: inline-block;
+}
+
+.galletas main{
+  margin-top: auto;
+  
+};
