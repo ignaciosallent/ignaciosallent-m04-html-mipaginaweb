@@ -106,7 +106,11 @@ footer a:hover{
   text-decoration: none;
   height: 35%;
 }
-
+.button {
+  appearance: button;
+  text-decoration: none;
+  color: initial;
+}
 
 #libro {
   background-color: rgb(234, 233, 233);
