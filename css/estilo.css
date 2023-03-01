@@ -214,5 +214,16 @@ margin: 1%;
 
 .ingredientes_galletas{
   margin-left: 5%;
-  
+}
+
+.ingredientes_galletas li{
+ line-height: 1.5;
+}
+
+.ingredientes_galletas ol{
+  list-style-type: disc;
+}
+
+.ingredientes_galletas ul{
+  list-style-type: square;
 }
