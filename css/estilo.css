@@ -162,14 +162,14 @@ margin: 1%;
   padding: 1%;
 }
 .misrecetas h1{
-  color: #016600;
+  color: #006600;
   font-weight: bold;
   padding: 1%;
 }
-.misrecetas h3{
+.misrecetas h3, a{
   text-align: justify;
   padding: 1%;
-  color: #016600;
+  color: #006600;
 }
 .misrecetas hr{
   width: 100%;
