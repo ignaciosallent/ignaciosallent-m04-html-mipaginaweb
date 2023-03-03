@@ -243,3 +243,28 @@ margin: 1%;
   margin-right: 2%;
   margin-bottom: 2%;
 }
+
+.navbar {
+  text-align: center;
+  padding: 18px;
+  overflow: hidden;
+  color: black;
+}
+.navbar a{
+  float: left;
+  padding: 10px;
+}
+.navbar ul{
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+}
+.navbar li{
+  padding: 18px;
+  float: left;
+  text-decoration: none;
+}
+.navbar a{
+  font-weight: bold;
+  text-decoration: none;
+}
