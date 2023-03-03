@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" http-equiv="refresh" content="1">
-        <link rel="stylesheet" href="/css/estilo.css">
+        <link rel="stylesheet" href="../css/estilo.css">
         <title>Unas buenas recetas</title>
     </head>
     <body>
@@ -12,16 +12,16 @@
                 <hr align="center" size="2" width="1800" color="#8A8070" noshade>
                 <ul text-align:center>
                     <li>
-                        <a href="/index.html">INICIO</a>
+                        <a href="../index.html">INICIO</a>
                     </li>
                     <li>
-                        <a href="/head/sobre_mi.html">SOBRE MI</a>
+                        <a href="../head/sobre_mi.html">SOBRE MI</a>
                     </li>
                     <li>
-                        <a href="/head/recetas.html">RECETAS</a>
+                        <a href="../head/recetas.html">RECETAS</a>
                     </li>
                     <li>
-                        <a href="/head/contacto.html">CONTACTO</a>
+                        <a href="../head/contacto.html">CONTACTO</a>
                     </li>
                     <li>
                         <a href="">OTRAS COSAS</a>
@@ -30,31 +30,36 @@
               <hr align="center" size="2" width="1800" color="#8A8070" noshade>
             </nav>
         </header>
-    <body>
+    <body class="formulario">
         <br>
         <form
         action="/pruebas/resultados_formulario.html"
         method="get">
         <div>
             <label for="Nom">Nombre:</label>
+            <br>
             <input type="text" id="name"
             name="user_name">
         </div>
         <div>
             <label for="mail">E-mail:</label>
+            <br>
             <input type="email" id="mail"
             name="user_mail">
         </div>
         <div>
             <label for="msg">Título del mensaje o receta:</label>
+            <br>
             <textarea id="msg"
             name="user_message"></textarea>
         </div>
         <div>
             <label for="msg_txt">Contenido del mensaje o receta:</label>
+            <br>
             <textarea id="msg_txt"
             name="user_txt_message"></textarea>
         </div>
+        <br>
         <div class="button">
             <button type="submit">Envía</button>
         </div>

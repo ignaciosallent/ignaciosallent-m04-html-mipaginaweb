@@ -162,14 +162,14 @@ margin: 1%;
   padding: 1%;
 }
 .misrecetas h1{
-  color: #016600;
+  color: #006600;
   font-weight: bold;
   padding: 1%;
 }
-.misrecetas h3{
+.misrecetas h3, a{
   text-align: justify;
   padding: 1%;
-  color: #016600;
+  color: #006600;
 }
 .misrecetas hr{
   width: 100%;
@@ -323,4 +323,39 @@ margin: 1%;
   text-align: justify;
   margin-right: 2%;
   margin-bottom: 2%;
+}
+
+.limoncito {
+  text-align: center;
+  padding: 18px;
+  overflow: hidden;
+  color: black;
+}
+.limoncito a{
+  float: left;
+  padding: 10px;
+}
+.limoncito ul{
+  list-style: none;
+  display: inline-block;
+  text-decoration: none;
+}
+.limoncito li{
+  padding: 18px;
+  float: left;
+  text-decoration: none;
+}
+.limoncito a{
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.formulario {
+  text-align: center;
+}
+.formulario div{
+  padding: 2%;
+}
+.formulario textarea, input{
+  background-color: #efefef;
 }
