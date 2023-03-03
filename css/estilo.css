@@ -359,3 +359,9 @@ margin: 1%;
 .formulario textarea, input{
   background-color: #efefef;
 }
+
+video{
+  width: 320px;
+  height: 320px;
+  display: inline-block;
+}
