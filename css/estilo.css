@@ -198,6 +198,12 @@ margin: 1%;
   margin-left: 5%;
 }
 
+.mijo{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5%;
+}
+
 .foto_galletas{
   display: block;
   width: 50%;
@@ -219,6 +225,13 @@ margin: 1%;
   margin-right: auto;
 }
 
+.foto_mijo{
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .descripcion_galletas {
   margin-top: auto;
   margin-bottom: auto;
@@ -232,6 +245,12 @@ margin: 1%;
 }
 
 .descripcion_pasta{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5%;
+}
+
+.descripcion_mijo{
   margin-top: auto;
   margin-bottom: auto;
   margin-left: 5%;
@@ -265,6 +284,10 @@ margin: 1%;
   margin-left: 5%;
 }
 
+.ingredientes_mijo {
+  margin-left: 5%;
+}
+
 .ingredientes_galletas li{
  line-height: 1.5;
 }
@@ -274,6 +297,10 @@ margin: 1%;
 }
 
 .ingredientes_pasta li{
+  line-height: 1.5;
+}
+
+.ingredientes_mijo li{
   line-height: 1.5;
 }
 
@@ -295,6 +322,12 @@ margin: 1%;
   margin-top: 1%;
 }
 
+.ingredientes_mijo ol {
+  list-style: disc;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+
 .ingredientes_galletas ul{
   list-style-type: square;
 }
@@ -307,6 +340,10 @@ margin: 1%;
   list-style: square;
 }
 
+.ingredientes_mijo ul {
+  list-style: square;
+}
+
 .ingredientes_galletas p{
   margin-left: -2%;
 }
@@ -316,6 +353,10 @@ margin: 1%;
 }
 
 .ingredientes_pasta p{
+  margin-left: -2%;
+}
+
+.ingredientes_mijo p{
   margin-left: -2%;
 }
 
