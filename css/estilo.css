@@ -186,7 +186,33 @@ margin: 1%;
   margin-left: 5%;
 }
 
+.calabacines {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5%;
+}
+
+.pasta {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5%;
+}
+
 .foto_galletas{
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.foto_calabacines{
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.foto_pasta{
   display: block;
   width: 50%;
   margin-left: auto;
@@ -199,6 +225,18 @@ margin: 1%;
   margin-left: 5%;
 }
 
+.descripcion_calabacines{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5%;
+}
+
+.descripcion_pasta{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 5%;
+}
+
 .cuadro_ingredientes{
   margin-top: auto;
   margin-bottom: auto;
@@ -206,7 +244,6 @@ margin: 1%;
   margin-right: 5%;
   border-style: solid;
   }
-
 .cuadro_ingredientes h2{
   margin:2%;
 }
@@ -220,8 +257,24 @@ margin: 1%;
   margin-left: 5%;
 }
 
+.ingredientes_calabacines {
+  margin-left: 5%;
+}
+
+.ingredientes_pasta {
+  margin-left: 5%;
+}
+
 .ingredientes_galletas li{
  line-height: 1.5;
+}
+
+.ingredientes_calabacines li{
+  line-height: 1.5;
+}
+
+.ingredientes_pasta li{
+  line-height: 1.5;
 }
 
 .ingredientes_galletas ol{
@@ -230,11 +283,39 @@ margin: 1%;
   margin-top: 1%;
 }
 
+.ingredientes_calabacines ol {
+  list-style: disc;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+
+.ingredientes_pasta ol{
+  list-style: disc;
+  margin-bottom: 1%;
+  margin-top: 1%;
+}
+
 .ingredientes_galletas ul{
   list-style-type: square;
 }
 
+.ingredientes_calabacines ul {
+  list-style: square;
+}
+
+.ingredientes_pasta ul{
+  list-style: square;
+}
+
 .ingredientes_galletas p{
+  margin-left: -2%;
+}
+
+.ingredientes_calabacines p{
+  margin-left: -2%;
+}
+
+.ingredientes_pasta p{
   margin-left: -2%;
 }
 
