@@ -244,27 +244,37 @@ margin: 1%;
   margin-bottom: 2%;
 }
 
-.navbar {
+.limoncito {
   text-align: center;
   padding: 18px;
   overflow: hidden;
   color: black;
 }
-.navbar a{
+.limoncito a{
   float: left;
   padding: 10px;
 }
-.navbar ul{
+.limoncito ul{
   list-style: none;
   display: inline-block;
   text-decoration: none;
 }
-.navbar li{
+.limoncito li{
   padding: 18px;
   float: left;
   text-decoration: none;
 }
-.navbar a{
+.limoncito a{
   font-weight: bold;
   text-decoration: none;
+}
+
+.formulario {
+  text-align: center;
+}
+.formulario div{
+  padding: 2%;
+}
+.formulario textarea, input{
+  background-color: #efefef;
 }
