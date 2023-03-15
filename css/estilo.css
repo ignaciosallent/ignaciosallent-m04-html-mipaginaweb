@@ -36,6 +36,7 @@ nav ul{
 
 nav ul li{
    float: left;
+   display: block;
 }
 
 nav ul li a {
@@ -75,6 +76,8 @@ footer a{
 }
 footer a:hover{
   cursor: pointer;
+  color: rgb(23, 219, 154);
+  display: flex;
 }
 
 .sobremi {
