@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="ciudadesOrden.xsl" ?>
+<ciudades>
+	<ciudad>
+		<nombre>Madrid</nombre>
+		<habitantes>3500000</habitantes>
+        <provincia>Madrid</provincia>
+	</ciudad>
+	<ciudad>
+		<nombre>Malaga</nombre>
+		<habitantes>800000</habitantes>
+        <provincia>Malaga</provincia>
+	</ciudad>
+	<ciudad>
+		<nombre>Toledo</nombre>
+		<habitantes>50000</habitantes>
+        <provincia>Toledo</provincia>
+	</ciudad>
+	<ciudad>
+		<nombre>Vic</nombre>
+		<habitantes>3</habitantes>
+        <provincia>Barcelona</provincia>
+	</ciudad>
+	<ciudad>
+		<nombre>Barcelona</nombre>
+		<habitantes>2500000</habitantes>
+        <provincia>Barcelona</provincia>
+	</ciudad>
+    <ciudad>
+		<nombre>Sabadell</nombre>
+		<habitantes>1000</habitantes>
+        <provincia>Barcelona</provincia>
+	</ciudad>
+    <ciudad>
+		<nombre>Terrassa</nombre>
+		<habitantes>2500</habitantes>
+        <provincia>Barcelona</provincia>
+	</ciudad>
+    <ciudad>
+		<nombre>Torredembarra</nombre>
+		<habitantes>200</habitantes>
+        <provincia>tarragona</provincia>
+	</ciudad>
+</ciudades>
