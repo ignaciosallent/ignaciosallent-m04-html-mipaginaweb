@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="recetas.xsl" ?>
+<recetas>
+	<receta>
+		<nombre>Pasta con Salsa de Coliflor y Pimienta de Jamaica</nombre>
+		<tiempo>10min</tiempo>
+        <dificultad>media</dificultad>
+        <ingredientes>Aceite, Cebollas, Ajo, Coliflor, Caldo, Levadura, Leche, Sal</ingredientes>
+        <tipo>Pasta</tipo>
+        <Filtro>Comidas</Filtro>
+    </receta>
+	<receta>
+		<nombre>Galletas de Avena, Rosa y Lima</nombre>
+		<tiempo>20min</tiempo>
+        <dificultad>baja</dificultad>
+        <ingredientes>Harina, Azúcar, Agua, Esencia de Rosa, Aceite, Lima, Algarve, Frutas Silvestres</ingredientes>
+        <tipo>Dulces</tipo>
+        <Filtro>Postre</Filtro>
+    </receta>
+	<receta>
+		<nombre>Mijo Cremoso con lentejas, hortalizas y shiitake</nombre>
+		<tiempo>10min</tiempo>
+        <dificultad>baja</dificultad>
+        <ingredientes>Aceite, cebolla, Ajo, Boniato, Coliflor, Agua, Mijo, Lentejas, Sal, Setas, Leche, Curry</ingredientes>
+        <tipo>Ensaladas</tipo>
+        <Filtro>Comidas</Filtro>
+    </receta>
+	<receta>
+		<nombre>Calabacines rellenos de arroz y calabaza</nombre>
+		<tiempo>15min</tiempo>
+        <dificultad>baja</dificultad>
+        <ingredientes>Calabacines, Cebolla, Aceite, Ajo, Canela, Calabaza, Arroz, Nata, Sal, Queso</ingredientes>
+        <tipo>Hortalizas</tipo>
+        <Filtro>Comidas</Filtro>
+    </receta>
+	<receta>
+		<nombre>Buñuelos de Bacalao Caseros.</nombre>
+		<tiempo>60min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Bacalao, Cebolla, Perejil, harina, Huevos, Mantequilla, Agua, Levadura, Aceite, Sal</ingredientes>
+        <tipo>Pescado</tipo>
+        <Filtro>Comidas</Filtro>
+    </receta>
+    <receta>
+		<nombre>Guiso de Patatas y Alcachofas</nombre>
+		<tiempo>90min</tiempo>
+        <dificultad>baja</dificultad>
+        <ingredientes>Alcachofas, Zumo, Patata, Cebolla, Vino, Caldo, Tomate, Pimiento, Ajo, Aceite, Pimentón, Azafrán, Sal, Pimienta</ingredientes>
+        <tipo>Caldos y Guisos</tipo>
+        <Filtro>Comidas</Filtro>
+    </receta>
+    <receta>
+		<nombre>Terrassa</nombre>
+		<tiempo>2500</tiempo>
+        <dificultad>Barcelona</dificultad>
+        <ingredientes></ingredientes>
+        <tipo></tipo>
+        <Filtro></Filtro>
+    </receta>
+    <receta>
+		<nombre>Torredembarra</nombre>
+		<tiempo>200</tiempo>
+        <dificultad>tarragona</dificultad>
+        <ingredientes></ingredientes>
+        <tipo></tipo>
+        <Filtro></Filtro>
+    </receta>
+</recetas>
