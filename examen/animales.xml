@@ -1,6 +1,5 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/examen/estil2.xsl"?>
+<?xml-stylesheet type="text/xsl" href="estil2.xsl" ?>
 <zoo>
   <animal>
     <nom>Gat</nom>
@@ -18,6 +17,6 @@
     <nom>Cocodril</nom>
     <especie>Crocodylus niloticus</especie>
     <edat>15</edat>
-    <color>Verd fosc</color>
+    <color>Verd</color>
   </animal>
 </zoo>
