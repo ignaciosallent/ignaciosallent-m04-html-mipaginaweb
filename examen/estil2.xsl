@@ -3,7 +3,6 @@
 	<xsl:template match="/">
 		<html>
 			<head>
-				<link rel="stylesheet" type="text/css" href="css_anim.css" />
 				<title>Ejemplo XSLT</title>
 			</head>
 			<body>
