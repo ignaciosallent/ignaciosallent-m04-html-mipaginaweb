@@ -65,4 +65,12 @@
         <tipo></tipo>
         <Filtro></Filtro>
     </receta>
+    <receta>
+		<nombre>Guiso de Patatas y Alcachofas</nombre>
+		<tiempo>90min</tiempo>
+        <dificultad>baja</dificultad>
+        <ingredientes>Alcachofas, Zumo, Patata, Cebolla, Vino, Caldo, Tomate, Pimiento, Ajo, Aceite, Pimentón, Azafrán, Sal, Pimienta</ingredientes>
+        <tipo>Caldos y Guisos</tipo>
+        <Filtro>Comidas</Filtro>
+    </receta>
 </recetas>
