@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estil1.xsl" ?>
+<zoo>
+  <animal>
+    <nom>Gat</nom>
+    <especie>Felis silvestris catus</especie>
+    <edat>4</edat>
+    <color>Verd</color>
+  </animal>
+  <animal>
+    <nom>Àguila</nom>
+    <especie>Aquila chrysaetos</especie>
+    <edat>8</edat>
+    <color>Cafè</color>
+  </animal>
+  <animal>
+    <nom>Cocodril</nom>
+    <especie>Crocodylus niloticus</especie>
+    <edat>15</edat>
+    <color>Verd</color>
+  </animal>
+</zoo>
