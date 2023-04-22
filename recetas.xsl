@@ -7,6 +7,7 @@
         <link rel="stylesheet" type="text/css" href="css/recetas.css" />
       </head>
       <body>
+        <img src="/imagenes/Logo-Delicias.png" class="logo" alt="Esta imagen no carga"/>
         <h1>Recetas</h1>
         <table>
           <tr>
