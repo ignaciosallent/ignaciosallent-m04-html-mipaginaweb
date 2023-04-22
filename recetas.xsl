@@ -18,6 +18,7 @@
             <th>Filtro</th>
           </tr>
           <xsl:for-each select="recetas/receta">
+            <xsl:sort select="nombre"/>
             <tr>
               <td><xsl:value-of select="nombre"/></td>
               <td><xsl:value-of select="tiempo"/></td>
