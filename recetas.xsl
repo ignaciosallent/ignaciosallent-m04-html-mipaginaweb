@@ -4,7 +4,7 @@
     <html>
       <head>
         <title>Recetas</title>
-        <link rel="stylesheet" type="text/css" href="recetas.css" />
+        <link rel="stylesheet" type="text/css" href="css/recetas.css" />
       </head>
       <body>
         <h1>Recetas</h1>
