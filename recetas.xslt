@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" >
-  <xsl:template match="/">
+<xslt:stylesheet version="1.0" xmlns:xslt="http://www.w3.org/1999/XSL/Transform" >
+  <xslt:template match="/">
     <html>
       <head>
         <title>Recetas</title>
@@ -39,19 +39,19 @@
             <th>Tipo</th>
             <th>Filtro</th>
           </tr>
-          <xsl:for-each select="recetas/receta">
-            <xsl:sort select="nombre"/>
+          <xslt:for-each select="recetas/receta">
+            <xslt:sort select="nombre"/>
             <tr>
-              <td><xsl:value-of select="nombre"/></td>
-              <td><xsl:value-of select="tiempo"/></td>
-              <td><xsl:value-of select="dificultad"/></td>
-              <td><xsl:value-of select="ingredientes"/></td>
-              <td><xsl:value-of select="tipo"/></td>
-              <td><xsl:value-of select="Filtro"/></td>
+              <td><xslt:value-of select="nombre"/></td>
+              <td><xslt:value-of select="tiempo"/></td>
+              <td><xslt:value-of select="dificultad"/></td>
+              <td><xslt:value-of select="ingredientes"/></td>
+              <td><xslt:value-of select="tipo"/></td>
+              <td><xslt:value-of select="Filtro"/></td>
             </tr>
-          </xsl:for-each>
+          </xslt:for-each>
         </table>
       </body>
     </html>
-  </xsl:template>
-</xsl:stylesheet>
+  </xslt:template>
+</xslt:stylesheet>
