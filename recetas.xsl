@@ -7,7 +7,28 @@
         <link rel="stylesheet" type="text/css" href="css/recetas.css" />
       </head>
       <body>
+      <header class="navbar">
         <img src="/imagenes/Logo-Delicias.png" class="logo" alt="Esta imagen no carga"/>
+        <div class="navbar">
+          <ul>
+            <li>
+                <a href="index.html">INICIO</a>
+            </li>
+            <li>
+                <a href="head/sobre_mi.html">SOBRE MI</a>
+            </li>
+            <li>
+                <a href="recetas.xml">RECETAS</a>
+            </li>
+            <li>
+                <a href="head/contacto.html">CONTACTO</a>
+            </li>
+            <li>
+                <a href="head/otras_cosas.html">OTRAS COSAS</a>
+            </li>                   
+          </ul>
+        </div>
+      </header>
         <h1>Recetas</h1>
         <table>
           <tr>

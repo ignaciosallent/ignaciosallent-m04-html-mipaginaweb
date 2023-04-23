@@ -1,15 +1,15 @@
-/*body {
+body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   background-color: #f9f8fC;
-}*/
+}
 
-@import url('https://fonts.googleapis.com/css2?family=Economica&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Economica&display=swap');
 body {
   font-family: 'Economica', sans-serif;
   font-size: 16px;
   background-color: #f9f8fC;
-}
+}*/
 
 .container {
   max-width: 1200px;
@@ -76,4 +76,34 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 320px;
+}
+
+.navbar{
+  overflow: hidden;
+  text-align: center;
+}
+.navbar ul{
+  list-style: none;
+  display: inline-block;
+  padding: 1.5%;
+}
+
+.navbar ul,li{
+  float: left;
+  display: block;
+}
+
+.navbar li,a {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 18px;
+  background-color: #f9f8fC;
+}
+
+.navbar ul,li,a:hover{
+  color: rgb(23, 219, 154);
+  cursor: pointer;
+  background-color: #f9f8fC;
 }
