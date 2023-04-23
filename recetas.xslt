@@ -25,7 +25,7 @@
             </li>
             <li>
                 <a href="head/otras_cosas.html">OTRAS COSAS</a>
-            </li>                   
+            </li>
           </ul>
         </div>
       </header>
