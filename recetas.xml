@@ -2,112 +2,112 @@
 <?xml-stylesheet type="text/xsl" href="recetas.xsl" ?>
 <recetas >
 	<receta>
-		<nombre>Pasta con Salsa de Coliflor y Pimienta de Jamaica</nombre>
-		<tiempo>10min</tiempo>
-        <dificultad>media</dificultad>
-        <ingredientes>Aceite, Cebollas, Ajo, Coliflor, Caldo, Levadura, Leche, Sal</ingredientes>
+		<nombre>Pasta con salsa de coliflor y pimienta de Jamaica</nombre>
+		<tiempo>10 min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Aceite, cebollas, ajo, coliflor, caldo, levadura, leche, sal</ingredientes>
         <tipo>Pasta</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
 	<receta>
-		<nombre>Galletas de Avena, Rosa y Lima</nombre>
-		<tiempo>20min</tiempo>
-        <dificultad>baja</dificultad>
-        <ingredientes>Harina, Azúcar, Agua, Esencia de Rosa, Aceite, Lima, Algarve, Frutas Silvestres</ingredientes>
+		<nombre>Galletas de avena, rosa y lima</nombre>
+		<tiempo>20 min</tiempo>
+        <dificultad>Baja</dificultad>
+        <ingredientes>Harina, azúcar, agua, esencia de rosa, aceite, lima, algarve, frutas silvestres</ingredientes>
         <tipo>Dulces</tipo>
         <Filtro>Postre</Filtro>
     </receta>
 	<receta>
-		<nombre>Mijo Cremoso con lentejas, hortalizas y shiitake</nombre>
-		<tiempo>10min</tiempo>
-        <dificultad>baja</dificultad>
-        <ingredientes>Aceite, cebolla, Ajo, Boniato, Coliflor, Agua, Mijo, Lentejas, Sal, Setas, Leche, Curry</ingredientes>
+		<nombre>Mijo cremoso con lentejas, hortalizas y shiitake</nombre>
+		<tiempo>10 min</tiempo>
+        <dificultad>Baja</dificultad>
+        <ingredientes>Aceite, cebolla, ajo, boniato, coliflor, agua, mijo, lentejas, sal, setas, leche, curry</ingredientes>
         <tipo>Ensaladas</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
 	<receta>
 		<nombre>Calabacines rellenos de arroz y calabaza</nombre>
-		<tiempo>15min</tiempo>
-        <dificultad>baja</dificultad>
-        <ingredientes>Calabacines, Cebolla, Aceite, Ajo, Canela, Calabaza, Arroz, Nata, Sal, Queso</ingredientes>
+		<tiempo>15 min</tiempo>
+        <dificultad>Baja</dificultad>
+        <ingredientes>Calabacines, cebolla, aceite, ajo, canela, calabaza, arroz, nata, sal, queso</ingredientes>
         <tipo>Hortalizas</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
 	<receta>
-		<nombre>Buñuelos de Bacalao Caseros.</nombre>
-		<tiempo>60min</tiempo>
-        <dificultad>media</dificultad>
-        <ingredientes>Bacalao, Cebolla, Perejil, harina, Huevos, Mantequilla, Agua, Levadura, Aceite, Sal</ingredientes>
+		<nombre>Buñuelos de bacalao caseros.</nombre>
+		<tiempo>60 min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Bacalao, cebolla, perejil, harina, huevos, mantequilla, agua, levadura, aceite, sal</ingredientes>
         <tipo>Pescado</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
-		<nombre>Guiso de Patatas y Alcachofas</nombre>
-		<tiempo>90min</tiempo>
-        <dificultad>baja</dificultad>
-        <ingredientes>Alcachofas, Zumo, Patata, Cebolla, Vino, Caldo, Tomate, Pimiento, Ajo, Aceite, Pimentón, Azafrán, Sal, Pimienta</ingredientes>
-        <tipo>Caldos y Guisos</tipo>
+		<nombre>Guiso de patatas y alcachofas</nombre>
+		<tiempo>90 min</tiempo>
+        <dificultad>Baja</dificultad>
+        <ingredientes>Alcachofas, zumo, patata, cebolla, vino, caldo, tomate, pimiento, ajo, aceite, pimentón, azafrán, Sal, Pimienta</ingredientes>
+        <tipo>Caldos y guisos</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
 		<nombre>Gamas al ajillo</nombre>
-		<tiempo>75min</tiempo>
-        <dificultad>media</dificultad>
-        <ingredientes>gambas, ajos, vino blanco, perejil, sal, pimienta, aceite</ingredientes>
+		<tiempo>75 min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Gambas, ajos, vino blanco, perejil, sal, pimienta, aceite</ingredientes>
         <tipo>Pescado</tipo>
         <Filtro>Entrantes</Filtro>
     </receta>
     <receta>
 		<nombre>Flan de galletas</nombre>
-		<tiempo>50min</tiempo>
-        <dificultad>media</dificultad>
+		<tiempo>50 min</tiempo>
+        <dificultad>Media</dificultad>
         <ingredientes>galletas María, leche, azúcar, huevos, vainilla, caramelo, mantequilla y almendras</ingredientes>
         <tipo>Dulces</tipo>
         <Filtro>Postre</Filtro>
     </receta>
     <receta>
 		<nombre>Risotto a los cuatro quesos</nombre>
-		<tiempo>90min</tiempo>
-        <dificultad>alta</dificultad>
+		<tiempo>90 min</tiempo>
+        <dificultad>Alta</dificultad>
         <ingredientes>caldo de verduras, cebolla, ajo, vino, emmental, gruyère, queso de cabra, gorgonzola, mostaza, mantequilla, aceite</ingredientes>
         <tipo>Pasta</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
-		<nombre>Salmón al Horno</nombre>
-		<tiempo>20min</tiempo>
-        <dificultad>baja</dificultad>
-        <ingredientes>Salmón, Mayonesa, Clara de Huevo, Diente de Ajo, Limón, Sal</ingredientes>
+		<nombre>Salmón al horno</nombre>
+		<tiempo>20 min</tiempo>
+        <dificultad>Baja</dificultad>
+        <ingredientes>Salmón, mayonesa, clara de huevo, diente de ajo, limón, sal</ingredientes>
         <tipo>Pescado</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
-		<nombre>Garbanzos con Calamares</nombre>
-		<tiempo>50min</tiempo>
-        <dificultad>media</dificultad>
-        <ingredientes>Calamar, Cebolla, Tomate, Ajo, Garbanzos, Aceite,, Caldo de Pescado</ingredientes>
+		<nombre>Garbanzos con calamares</nombre>
+		<tiempo>50 min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Calamar, cebolla, tomate, ajo, garbanzos, aceite, caldo de pescado</ingredientes>
         <tipo>Caldos y guisos</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
 		<nombre>Rodaballo gratinado al horno con patatas</nombre>
-		<tiempo>75min</tiempo>
-        <dificultad>alta</dificultad>
+		<tiempo>75 min</tiempo>
+        <dificultad>Alta</dificultad>
         <ingredientes>Rodaballo, patatas, cebolla, nata líquida, pimienta, sal, aceite, perejil</ingredientes>
         <tipo>Pescado</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
 		<nombre>Pollo al horno con finas hierbas</nombre>
-		<tiempo>90min</tiempo>
-        <dificultad>media</dificultad>
+		<tiempo>90 min</tiempo>
+        <dificultad>Media</dificultad>
         <ingredientes>Pollo, limón, cebolla, hierbas, manteca, patatas</ingredientes>
         <tipo>Carnes</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
 		<nombre>Fabada</nombre>
-		<tiempo>60min</tiempo>
+		<tiempo>60 min</tiempo>
         <dificultad>Baja-media</dificultad>
         <ingredientes>Fabes, aceite, chorizo, morcilla, tocino, laurel, azafrán, agua y sal</ingredientes>
         <tipo>Caldos y guisos</tipo>
@@ -115,7 +115,7 @@
     </receta>
     <receta>
 		<nombre>Pizza cinco quesos</nombre>
-		<tiempo>45min</tiempo>
+		<tiempo>45 min</tiempo>
         <dificultad>Baja</dificultad>
         <ingredientes>Masa de pizza, tomate, cinco quesos, orégano</ingredientes>
         <tipo>Pizzas</tipo>
@@ -123,120 +123,120 @@
     </receta>
     <receta>
 		<nombre>Ensaladilla de patata con mayonesa de limón y mostaza</nombre>
-		<tiempo>30min</tiempo>
-        <dificultad>baja</dificultad>
-        <ingredientes>Patata, Mayonesa, Limón, Mostaza, Leche, Yema de huevo, huevo, Pimienta, Sal, cebollino </ingredientes>
+		<tiempo>30 min</tiempo>
+        <dificultad>Baja</dificultad>
+        <ingredientes>Patata, mayonesa, limón, mostaza, leche, yema de huevo, huevo, pimienta, sal, cebollino</ingredientes>
         <tipo>Ensaladas</tipo>
         <Filtro>Entrantes</Filtro>
     </receta>
     <receta>
 		<nombre>Lentejas estofadas</nombre>
-		<tiempo>60min</tiempo>
-        <dificultad>media</dificultad>
-        <ingredientes>Lentejas, Ajo, laurel, Cebolla, zanahorias, pimiento, agua, caldo de verduras, pimentón, sal y pimienta</ingredientes>
+		<tiempo>60 min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Lentejas, ajo, laurel, cebolla, zanahorias, pimiento, agua, caldo de verduras, pimentón, sal y pimienta</ingredientes>
         <tipo>Caldos y guisos</tipo>
         <Filtro>Entrantes</Filtro>
     </receta>
     <receta>
 		<nombre>Puerros gratinados con jamón y queso</nombre>
-		<tiempo>35min</tiempo>
-        <dificultad>baja</dificultad>
+		<tiempo>35 min</tiempo>
+        <dificultad>Baja</dificultad>
         <ingredientes>Puerros, queso, jamón, bechamel, queso para gratinar </ingredientes>
         <tipo>Hortalizas</tipo>
         <Filtro>Entrantes</Filtro>
     </receta>
     <receta>
 		<nombre>Tortilla de patatas vegana</nombre>
-		<tiempo>50min</tiempo>
-        <dificultad>media</dificultad>
-        <ingredientes>patatas, cebolla, harina de garbanzos, agua, aceite, sal</ingredientes>
+		<tiempo>50 min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Patatas, cebolla, harina de garbanzos, agua, aceite, sal</ingredientes>
         <tipo>Tortillas</tipo>
         <Filtro>Entrantes</Filtro>
     </receta>
     <receta>
 		<nombre>Lubina al horno</nombre>
-		<tiempo>50min</tiempo>
-        <dificultad>media</dificultad>
-        <ingredientes>lubina, patatas, cebolla, romero, limón, sal, aceite</ingredientes>
+		<tiempo>50 min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Lubina, patatas, cebolla, romero, limón, sal, aceite</ingredientes>
         <tipo>Pescado</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
 		<nombre>Pollo con almendras estilo chino</nombre>
-		<tiempo>30min</tiempo>
-        <dificultad>baja</dificultad>
-        <ingredientes>pechugas de pollo, soja, jengibre, azúcar, almendrasm zanahorias, cebolla, caldo de pollo, harina, aceite, sal</ingredientes>
+		<tiempo>30 min</tiempo>
+        <dificultad>Baja</dificultad>
+        <ingredientes>Pechugas de pollo, soja, jengibre, azúcar, almendrasm zanahorias, cebolla, caldo de pollo, harina, aceite, sal</ingredientes>
         <tipo>Carnes</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
-		<nombre>carrilleras de Cerdo al vino</nombre>
-		<tiempo>150min</tiempo>
-        <dificultad>alta</dificultad>
-        <ingredientes>Carrilleras de Cerdo, pimientos, ajo, cebolla, zanahorias, vino tinto, caldo de carne, tomillo, sal, pimienta, aceite</ingredientes>
+		<nombre>Carrilleras de Cerdo al vino</nombre>
+		<tiempo>150 min</tiempo>
+        <dificultad>Alta</dificultad>
+        <ingredientes>Carrilleras de cerdo, pimientos, ajo, cebolla, zanahorias, vino tinto, caldo de carne, tomillo, sal, pimienta, aceite</ingredientes>
         <tipo>Carnes</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
 		<nombre>Budín de pan</nombre>
-		<tiempo>70min</tiempo>
-        <dificultad>media</dificultad>
+		<tiempo>70 min</tiempo>
+        <dificultad>Media</dificultad>
         <ingredientes>Pan, leche. huevos, azúcar, canela, mantequilla, brandy, pasas</ingredientes>
         <tipo>Dulces</tipo>
         <Filtro>Postre</Filtro>
     </receta>
     <receta>
 		<nombre>Tempura de verduras</nombre>
-		<tiempo>50min</tiempo>
-        <dificultad>media</dificultad>
+		<tiempo>50 min</tiempo>
+        <dificultad>Media</dificultad>
         <ingredientes>Agua, harina, vino, aceite, huevos, calabaza, coliflor, brócoli, romano, patatas, alcachofas, zanahorias, manzanas, aceite, sal</ingredientes>
         <tipo>Hortalizas</tipo>
         <Filtro>Entrantes</Filtro>
     </receta>
     <receta>
 		<nombre>Revuelto de champiñones con huevos</nombre>
-		<tiempo>25min</tiempo>
-        <dificultad>baja</dificultad>
-        <ingredientes>champiñones, huevos, aceite, sal, leche, perejil</ingredientes>
-        <tipo>hortalizas</tipo>
+		<tiempo>25 min</tiempo>
+        <dificultad>Baja</dificultad>
+        <ingredientes>Champiñones, huevos, aceite, sal, leche, perejil</ingredientes>
+        <tipo>Hortalizas</tipo>
         <Filtro>Entrantes</Filtro>
     </receta>
     <receta>
 		<nombre>Hígado a la veneciana</nombre>
-		<tiempo>55min</tiempo>
-        <dificultad>media</dificultad>
-        <ingredientes>hígado de ternera, cebollas, mantequilla, vino, laurel, aceite, sal, pimienta</ingredientes>
+		<tiempo>55 min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Hígado de ternera, cebollas, mantequilla, vino, laurel, aceite, sal, pimienta</ingredientes>
         <tipo>Carnes</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
 		<nombre>Albóndigas de calamares</nombre>
-		<tiempo>30min</tiempo>
-        <dificultad>media</dificultad>
-        <ingredientes>calamares, pan, cebolla, ajos, perejil, huevos, harina, pan rallado, vino blanco, aceite, sal, pimienta</ingredientes>
+		<tiempo>30 min</tiempo>
+        <dificultad>Media</dificultad>
+        <ingredientes>Calamares, pan, cebolla, ajos, perejil, huevos, harina, pan rallado, vino blanco, aceite, sal, pimienta</ingredientes>
         <tipo>Pescado</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
 		<nombre>Pizza semi-integral con queso brie</nombre>
-		<tiempo>70min</tiempo>
-        <dificultad>media</dificultad>
+		<tiempo>70 min</tiempo>
+        <dificultad>Media</dificultad>
         <ingredientes>Harina, levadura, azúcar, mozzarella, queso brie, tomate, aceite, oregano, sal, pimienta</ingredientes>
         <tipo>Pizza</tipo>
         <Filtro>Comidas</Filtro>
     </receta>
     <receta>
 		<nombre>Espárragos salteados</nombre>
-		<tiempo>30min</tiempo>
-        <dificultad>baja</dificultad>
+		<tiempo>30 min</tiempo>
+        <dificultad>Baja</dificultad>
         <ingredientes>Espárragos, caldo de verduras, sal, pimienta, aceite</ingredientes>
         <tipo>Hortalizas</tipo>
         <Filtro>Entrantes</Filtro>
     </receta>
     <receta>
 		<nombre>Estofado de ternera con manzanas y cerveza</nombre>
-		<tiempo>80min</tiempo>
-        <dificultad>alta</dificultad>
+		<tiempo>80 min</tiempo>
+        <dificultad>Alta</dificultad>
         <ingredientes>Aguja de ternera, cerveza, caldo de verduras, harina, pimentón, manzana, mantequilla, tomillo, aceite, ajo, sal, pimienta</ingredientes>
         <tipo>Carnes</tipo>
         <Filtro>Comidas</Filtro>
